@@ -76,7 +76,7 @@
 					<additionalClasspathElements>
 						<additionalClasspathElement>${basedir}/target/classes</additionalClasspathElement>
 					</additionalClasspathElements>
-					<parrallel>none</parrallel>
+					<parallel>none</parallel>
 				</configuration>
 				<executions>
 					<execution>
